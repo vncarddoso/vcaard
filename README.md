@@ -1,4 +1,4 @@
-# 👨‍💻 Vinícius Cardoso
+# 👨‍💻 Vinícius C. Miranda
 
 #### Desenvolvedor em formação, atualmente cursando Análise e Desenvolvimento de sistemas (ADS).
 <p align="left">
