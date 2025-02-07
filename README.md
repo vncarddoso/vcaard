@@ -1,6 +1,4 @@
 # 👨‍💻 Vinícius C. Miranda
-
-#### Desenvolvedor em formação, atualmente cursando Análise e Desenvolvimento de sistemas (ADS).
 <p align="left">
     <a href="https://github.com/vcaard?tab=repositories&sort=stargazers">
         <img 
