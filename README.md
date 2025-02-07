@@ -31,6 +31,16 @@
         />
     </a>
 </p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="150" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=vcaard&hide=contribs,prs&theme=merko&locale=pt-br&include_all_commits=true"
+  />
+</p>
+<br/>
+<br/>
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -50,14 +60,3 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<br/>
-<br/>
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=vcaard&hide=contribs,prs&theme=merko&locale=pt-br&include_all_commits=true"
-  />
-</p>
