@@ -1,4 +1,4 @@
-# 👨‍💻 Vinícius C. Miranda
+# 👨‍💻 Vinícius Cardoso Miranda
 ### ``Desenvolvedor back-end`` 
 <p align="left">
     <a href="https://github.com/vcaard?tab=repositories&sort=stargazers">
