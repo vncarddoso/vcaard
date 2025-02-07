@@ -16,6 +16,20 @@
             src="https://custom-icon-badges.demolab.com/github/followers/vcaard?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="mailto:vinicardmiranda@gmail.com">
+        <img 
+            alt="Gmail" 
+            title="Meu Gmail" 
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+        <a href="https://www.linkedin.com/in/vinicmiranda/">
+        <img 
+            alt="LinkedIn" 
+            title="Meu LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
 </p>
 
 ### 🤖 Linguagens e Tecnologias
@@ -42,7 +56,7 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=vcaard&hide=contribs,prs&theme=merko&locale=pt-br&include_all_commits=true"
   />
