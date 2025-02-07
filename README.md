@@ -1,4 +1,4 @@
-# 👨‍💻
+## 👨‍💻 Vinícius C. Miranda
 ### ``Software Developer`` 
 <p align="left">
     <a href="https://github.com/vcaard?tab=repositories&sort=stargazers">
