@@ -1,5 +1,5 @@
 # 👨‍💻 Vinícius C. Miranda
-### ``Software Developer`` 
+### ``Desenvolvedor back-end`` 
 <p align="left">
     <a href="https://github.com/vcaard?tab=repositories&sort=stargazers">
         <img 
@@ -43,26 +43,5 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
 <br/>
 <br/>
