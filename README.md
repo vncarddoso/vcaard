@@ -35,7 +35,7 @@
     alt="GitHub Stats" 
     height="150" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=vcaard&hide=prs&theme=dark&custom_title=Estatísticas%20Git%20Hub&locale=pt-br&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=vcaard&hide=prs&theme=dark&custom_title=Estatisticas%20Git%20Hub&locale=pt-br&include_all_commits=true"
   />
 
 <img 
