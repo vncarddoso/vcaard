@@ -30,7 +30,6 @@
         />
     </a>
 ### Conhecimentos
-
 <img 
     align="left" 
     alt="HTML"
