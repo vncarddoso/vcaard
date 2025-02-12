@@ -8,12 +8,6 @@
             src="https://custom-icon-badges.demolab.com/github/stars/vcaard?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-<br>
-<br>
-####Me chamo Vinícius, tenho 19 anos e atualmente moro no Rio de Janeiro.
-####Meu primeiro contato com códigos foi em 2019 quando decidi aprender o básico de JavaScript e Node.js para fazer Scripts para servidores de Minecraft, porque sempre gostei de computadores e se deixasse, ficaria o dia todo no PC... meu objetivo atualmente é continuar aprendendo linguagens e crescer nessa área que sempre gostei e passei e passo a maior parte do meu tempo. 
-<br>
-<br> 
     <a href="https://github.com/vcaard?tab=followers">
         <img 
             alt="Seguidores" 
@@ -36,6 +30,12 @@
         />
     </a>
 </p>
+<br>
+<br>
+####Me chamo Vinícius, tenho 19 anos e atualmente moro no Rio de Janeiro.
+####Meu primeiro contato com códigos foi em 2019 quando decidi aprender o básico de JavaScript e Node.js para fazer Scripts para servidores de Minecraft, porque sempre gostei de computadores e se deixasse, ficaria o dia todo no PC... meu objetivo atualmente é continuar aprendendo linguagens e crescer nessa área que sempre gostei e passei e passo a maior parte do meu tempo. 
+<br>
+<br> 
 <img 
     align="left" 
     alt="GitHub Stats" 
