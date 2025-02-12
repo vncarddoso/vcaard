@@ -85,6 +85,7 @@
 
 ---
 
+<br>
 </p>
 <img 
     align="left" 
