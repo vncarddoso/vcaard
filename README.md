@@ -65,7 +65,7 @@ No momento busco vaga para **estágio**, abaixo você pode conferir meus conheci
 <img
     alt="Git"
     title="Git"
-    src="    https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
+    src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
 />
 <img
     alt="Office"
