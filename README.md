@@ -129,11 +129,3 @@ No momento busco vaga para **estágio**, abaixo você pode conferir meus conheci
     height="150"
     src="https://github-readme-stats.vercel.app/api?username=vcaard&hide=prs&theme=dark&locale=pt-br&include_all_commits=true"
   />
-  
-<img
-      align="left"
-      alt="GitHub Stats"
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcaard&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />  
-</p>
