@@ -12,7 +12,7 @@ No momento busco vaga para **estágio**, abaixo você pode conferir meus conheci
 
 ---
 
-#### Atualmente estou concluindo o curso de [**Scientific Computing with Python**](https://www.freecodecamp.org/) no [**FreeCodeCamp***](https://www.freecodecamp.org/)
+#### Estou concluindo o curso de [**Scientific Computing with Python**](https://www.freecodecamp.org/) no [**FreeCodeCamp***](https://www.freecodecamp.org/)
 
 ## 👤 Conhecimentos atuais
 
