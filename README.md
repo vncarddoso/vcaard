@@ -130,7 +130,7 @@ No momento busco vaga para **estágio**, abaixo você pode conferir meus conheci
 <div>
     <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vcaard&theme=tokyonight"
-        height="250px"
+        height="200px"
         style="display: inline-block;"
     />
     <img 
