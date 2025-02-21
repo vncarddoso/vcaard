@@ -44,7 +44,7 @@ No momento busco vaga para **estágio**, abaixo você pode conferir meus conheci
 ---
 #### Atualmente estou concluindo o curso de [**Scientific Computing with Python**](https://www.freecodecamp.org/) no [**FreeCodeCamp***](https://www.freecodecamp.org/)
 
-### Conhecimentos atuais
+## Conhecimentos atuais
 
 <img
     alt="Python"
@@ -82,7 +82,7 @@ No momento busco vaga para **estágio**, abaixo você pode conferir meus conheci
     src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
 />
 
-### Tecnologias e ferramentas que quero e vou aprender
+### Tecnologias e ferramentas que quero aprender em breve
 
 <img
     alt="C"
@@ -119,12 +119,7 @@ No momento busco vaga para **estágio**, abaixo você pode conferir meus conheci
     title="Amazon Web Services"
     src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
 />
----
 
-</p>
-<img
-    align="left"
-    alt="GitHub Stats"
-    height="150"
-    src="https://github-readme-stats.vercel.app/api?username=vcaard&hide=prs&theme=dark&locale=pt-br&include_all_commits=true"
-  />
+**+**
+
+---
