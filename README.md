@@ -12,7 +12,7 @@ No momento busco vaga para **estágio**, abaixo você pode conferir meus conheci
 
 ---
 
-#### Estou concluindo o curso de [**Scientific Computing with Python**](https://www.freecodecamp.org/) no [**FreeCodeCamp***](https://www.freecodecamp.org/)
+#### Atualmente estou concluindo o curso de [**Scientific Computing with Python**](https://www.freecodecamp.org/) no [**FreeCodeCamp***](https://www.freecodecamp.org/)
 
 ## 👤 Conhecimentos atuais
 
@@ -25,6 +25,11 @@ No momento busco vaga para **estágio**, abaixo você pode conferir meus conheci
     alt="Django"
     title="Django"
     src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
+/>
+<img
+    alt="Flask"
+    title="Flask"
+    src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"
 />
 <img
     alt="MySQL"
@@ -89,6 +94,16 @@ No momento busco vaga para **estágio**, abaixo você pode conferir meus conheci
     title="Amazon Web Services"
     src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
 />
+<img
+    alt="Docker"
+    title="Docker"
+    src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"
+/>
+<img
+    alt="PostgreSQL"
+    title="PostgreSQL"
+    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+/>
 
 **+**
 
@@ -110,3 +125,17 @@ No momento busco vaga para **estágio**, abaixo você pode conferir meus conheci
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
+<br>
+<br>
+<div>
+    <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vcaard&theme=tokyonight"
+        height="150px"
+        style="display: inline-block;"
+    />
+    <img 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=vcaard&theme=tokyo-night"
+        height="150px"
+        style="display: inline-block;"
+    />
+</div>
