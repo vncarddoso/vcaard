@@ -44,7 +44,7 @@ No momento busco vaga para **estágio**, abaixo você pode conferir meus conheci
 ---
 #### Atualmente estou concluindo o curso de [**Scientific Computing with Python**](https://www.freecodecamp.org/) no [**FreeCodeCamp***](https://www.freecodecamp.org/)
 
-## Conhecimentos atuais
+## 👤 Conhecimentos atuais
 
 <img
     alt="Python"
@@ -82,7 +82,7 @@ No momento busco vaga para **estágio**, abaixo você pode conferir meus conheci
     src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
 />
 
-### Tecnologias e ferramentas que quero aprender em breve
+#### 🗺 Tecnologias e ferramentas que quero aprender em breve
 
 <img
     alt="C"
