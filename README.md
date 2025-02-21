@@ -133,9 +133,4 @@ No momento busco vaga para **estágio**, abaixo você pode conferir meus conheci
         height="200px"
         style="display: inline-block;"
     />
-    <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=vcaard&theme=tokyo-night"
-        height="250px"
-        style="display: inline-block;"
-    />
 </div>
