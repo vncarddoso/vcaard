@@ -177,12 +177,10 @@ Também estou concluindo o curso de [**Scientific Computing with Python**](https
 <div>
     <img 
         src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vcaard&theme=tokyonight"
-        height="150px"
-        style="display: inline-block;"
+        height="200px"
     />
     <img 
         src="https://github-readme-streak-stats.herokuapp.com/?user=vcaard&theme=tokyonight"
-        height="150px"
-        style="display: inline-block;"
+        height="200px"
     />
 </div>
