@@ -148,7 +148,6 @@ Também estou concluindo o curso de [**Scientific Computing with Python**](https
 />
 </p>
 </details>
-<br>
 
 ---
 
@@ -169,7 +168,6 @@ Também estou concluindo o curso de [**Scientific Computing with Python**](https
         src="https://img.shields.io/badge/Acesse%20o%20meu-LinkedIn-5DACDF?style=for-the-badge&logo=linkedin&logoColor=white"
     />
 </a>
-<br>
 
 ---
 
