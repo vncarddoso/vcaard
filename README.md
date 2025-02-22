@@ -12,7 +12,7 @@ No momento busco vaga para **estágio**, abaixo você pode conferir meus conheci
 
 ---
 
-#### Atualmente estou concluindo o curso de [**Scientific Computing with Python**](https://www.freecodecamp.org/) no [**FreeCodeCamp***](https://www.freecodecamp.org/)
+Concluindo o curso de [**Scientific Computing with Python**](https://www.freecodecamp.org/) no [**FreeCodeCamp***](https://www.freecodecamp.org/) <br> Logo após farei projetos e aplicações para praticar meu conhecimento.
 
 ## 👤 Conhecimentos atuais
 
@@ -42,11 +42,6 @@ No momento busco vaga para **estágio**, abaixo você pode conferir meus conheci
     src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
 />
 <img
-    alt="Office"
-    title="Office"
-    src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"
-/>
-<img
     alt="HTML5"
     title="HTML5"
     src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
@@ -65,9 +60,24 @@ No momento busco vaga para **estágio**, abaixo você pode conferir meus conheci
     src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
 />
 <img
+    alt="Golang"
+    title="Golang"
+    src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"
+/>
+<img
     alt="Java"
     title="Java"
     src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
+/>
+<img
+    alt="SpringBoot"
+    title="SpringBoot"
+    src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"
+/>
+<img
+    alt="Kotlin"
+    title="Kotlin"
+    src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white"
 />
 <img
     alt="Javascript"
@@ -90,9 +100,9 @@ No momento busco vaga para **estágio**, abaixo você pode conferir meus conheci
     src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
 />
 <img
-    alt="Amazon Web Services"
-    title="Amazon Web Services"
-    src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
+    alt="PostgreSQL"
+    title="PostgreSQL"
+    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
 />
 <img
     alt="Docker"
@@ -100,12 +110,20 @@ No momento busco vaga para **estágio**, abaixo você pode conferir meus conheci
     src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"
 />
 <img
-    alt="PostgreSQL"
-    title="PostgreSQL"
-    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+    alt="Amazon Web Services"
+    title="Amazon Web Services"
+    src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
 />
-
-**+**
+<img
+    alt="Google Cloud"
+    title="Google Cloud"
+    src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"
+/>
+<img
+    alt="CloudFlare"
+    title="CloudFlare"
+    src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"
+/>
 
 ---
 
@@ -125,12 +143,26 @@ No momento busco vaga para **estágio**, abaixo você pode conferir meus conheci
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
+    </a>
+        <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvcaard1212%2Fhit-counter">
+        <img
+            alt="GitHub"
+            title="GitHub"
+            src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvcaard1212%2Fhit-counter"
+        />
+    </a>
+    
 <br>
 <br>
 <div>
     <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vcaard&theme=tokyonight"
-        height="200px"
+        height="150px"
+        style="display: inline-block;"
+    />
+    <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=vcaard&theme=tokyonight"
+        height="150px"
         style="display: inline-block;"
     />
 </div>
