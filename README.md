@@ -20,6 +20,7 @@
 <details>
     <summary><b>🎓 Apresentação</b></summary>
         <p>
+
 Olá! Me chamo Vinícius, tenho 19 anos e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**, sempre fui apaixonado por computadores e tecnologia e desperto curiosidade em saber como tudo funciona e respectivamente resolver problemas.
 
 No momento busco vaga para **estágio**, abaixo você pode conferir meus conhecimentos e o que eu desejo aprender.
