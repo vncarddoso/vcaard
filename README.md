@@ -1,4 +1,6 @@
-# 👨‍💻 Vinícius Cardoso Miranda
+![Imgur](https://imgur.com/28kvLJY)
+
+<br>
 
 ### ``Desenvolvedor back-end``
 <img
@@ -17,20 +19,21 @@
     src="https://img.shields.io/github/stars/vcaard?style=flat&logo=spreaker&logoColor=white&label=Stars&labelColor=Grey"
 />
 
----
+<details>
+    <summary><b>🎓 Resumo</b></summary>
+        <p>
 
 Hello world! Me chamo Vinícius, tenho 19 anos e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**, sempre fui apaixonado por computadores e tecnologia e desperto curiosidade em saber como tudo funciona e respectivamente resolver problemas.
 
 No momento busco vaga para **estágio**, abaixo você pode conferir meus conhecimentos e o que eu desejo aprender.
 
-#### **Idiomas:** Inglês intermediário* (progredindo para avançado) - Espanhol básico
-
----
-
-Concluindo o curso de [**Scientific Computing with Python**](https://www.freecodecamp.org/) no [**FreeCodeCamp***](https://www.freecodecamp.org/) <br> Logo após farei projetos e aplicações para praticar meu conhecimento.
-
-## 👤 Conhecimentos atuais
-
+#### **Idiomas:** Inglês intermediário* (progredindo para avançado) - Espanhol básico 
+</p>
+</details>
+<details>
+<summary><b>👤 Conhecimentos atuais</b></summary>
+<p>
+<br>
 <img
     alt="Python"
     title="Python"
@@ -62,13 +65,20 @@ Concluindo o curso de [**Scientific Computing with Python**](https://www.freecod
     src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
 />
 <img
-    alt="HTML5"
-    title="HTML5"
+    alt="CSS3"
+    title="CSS3"
     src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
 />
 
-### 🗺 Tecnologias e ferramentas que me interesso em aprender
+Também estou concluindo o curso de [**Scientific Computing with Python**](https://www.freecodecamp.org/learn/scientific-computing-with-python/) no [**FreeCodeCamp***](https://www.freecodecamp.org/) <br> Logo após farei projetos e aplicações para praticar meu conhecimento.
 
+
+</p>
+</details>
+<details>
+<summary><b>💻 Tecnologias e ferramentas que me interesso em aprender em breve</b></summary>
+<p>
+<br>
 <img
     alt="C"
     title="C"
@@ -139,29 +149,34 @@ Concluindo o curso de [**Scientific Computing with Python**](https://www.freecod
     title="CloudFlare"
     src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"
 />
+</p>
+</details>
+<br>
 
 ---
 
 ### Contate-me! 💬
 
 <a href="mailto:vinicardmiranda@gmail.com">
-        <img
-            alt="Gmail"
-            title="Meu Gmail"
-            src="https://img.shields.io/badge/Envie%20um-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-        <a href="https://www.linkedin.com/in/viniciuscarddoso/">
+    <img
+        alt="Gmail"
+        title="Meu Gmail"
+        src="https://img.shields.io/badge/Envie%20um-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+</a>
 <br>
-        <img
-            alt="LinkedIn"
-            title="Meu LinkedIn"
-            src="https://img.shields.io/badge/Acesse%20o%20meu-LinkedIn-5DACDF?style=for-the-badge&logo=inspire&logoColor=white"
-        />
-    
+<a href="https://www.linkedin.com/in/viniciuscarddoso/" target="_blank">
+    <img
+        alt="LinkedIn"
+        title="Meu LinkedIn"
+        src="https://img.shields.io/badge/Acesse%20o%20meu-LinkedIn-5DACDF?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+</a>
 <br>
 
 ---
 
+<br>
 <div>
     <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vcaard&theme=tokyonight"
