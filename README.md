@@ -4,20 +4,17 @@
 </h1>
 
 
-<img
-    alt="Hit Counter"
-    title="Hit Counter"
-    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvcaard%2Fhit-counter&count_bg=%2374D729&title_bg=%23555555&icon=postwoman.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false"
-/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvcaard%2Fhit-counter&count_bg=%2379C83D&title_bg=%23000000&icon=codeigniter.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false"
+    />
 <img
     alt="Follow Me!"
     title="Follow me!"
-    src="https://img.shields.io/github/followers/vcaard?style=flat&logo=github&logoColor=white&label=Followers&labelColor=grey&color=yellow"
+    src="https://img.shields.io/github/followers/vcaard?style=flat&logo=github&logoColor=white&label=Followers&labelColor=black&color=yellow"
 />
 <img
     alt="Stars"
     title="Stars"
-    src="https://img.shields.io/github/stars/vcaard?style=flat&logo=spreaker&logoColor=white&label=Stars&labelColor=Grey"
+    src="https://img.shields.io/github/stars/vcaard?style=flat&logo=spreaker&logoColor=white&label=Stars&labelColor=black"
 />
 
 <details>
@@ -78,7 +75,7 @@ Também estou concluindo o curso de [**Scientific Computing with Python**](https
 </p>
 </details>
 <details>
-<summary><b>💻 Tecnologias e ferramentas que me interesso em aprender em breve</b></summary>
+<summary><b>💻 Tecnologias e ferramentas que quero aprender</b></summary>
 <p>
 <br>
 <img
@@ -162,7 +159,7 @@ Também estou concluindo o curso de [**Scientific Computing with Python**](https
     <img
         alt="Gmail"
         title="Meu Gmail"
-        src="https://img.shields.io/badge/Envie%20um-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+        src="https://img.shields.io/badge/Envie%20um-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black"
     />
 </a>
 <br>
@@ -170,11 +167,9 @@ Também estou concluindo o curso de [**Scientific Computing with Python**](https
     <img
         alt="LinkedIn"
         title="Meu LinkedIn"
-        src="https://img.shields.io/badge/Acesse%20o%20meu-LinkedIn-5DACDF?style=for-the-badge&logo=linkedin&logoColor=white"
+        src="https://img.shields.io/badge/Acesse%20o%20meu-LinkedIn-5DACDF?style=for-the-badge&logo=inspire&logoColor=white&labelColor=black"
     />
 </a>
-<br>
-<br>
 <p>
     <img 
         src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
