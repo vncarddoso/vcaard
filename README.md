@@ -1,9 +1,6 @@
-<p align="center">
-    <img src="https://i.postimg.cc/yxBQSzP7/33333333.png" width="300px" alt=".">
-</p>
 
 <br>
-
+# Vinícius Cardoso Miranda
 ### ``Desenvolvedor back-end``
 <img
     alt="Hit Counter"
