@@ -1,6 +1,5 @@
 # 🧑‍💻 Hello world!
 
-### ``Desenvolvedor back-end``
 <img
     alt="Hit Counter"
     title="Hit Counter"
@@ -21,7 +20,7 @@
     <summary><b>🎓 Apresentação</b></summary>
         <p>
 
-Olá! Me chamo Vinícius, tenho 19 anos e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**, sempre fui apaixonado por computadores e tecnologia e desperto curiosidade em saber como tudo funciona e respectivamente resolver problemas.
+Olá! Me chamo Vinícius, tenho 19 anos e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**, sempre fui apaixonado por computadores e tecnologia e desperto curiosidade em saber como tudo funciona e respectivamente resolver problemas. Agora com a oportunidade da faculdade, estou me especializando em desenvolvimento de software e back-end! Utilizando Python e frameworks como Django e Flask, mas em breve pretendo aprender Java e Springboot para aprofundar-me mais.
 
 No momento busco vaga para **estágio**, abaixo você pode conferir meus conhecimentos e o que eu desejo aprender.
 
