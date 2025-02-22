@@ -156,12 +156,12 @@ Concluindo o curso de [**Scientific Computing with Python**](https://www.freecod
 <div>
     <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vcaard&theme=tokyonight"
-        height="130px"
+        height="135px"
         style="display: inline-block;"
     />
     <img 
         src="https://github-readme-streak-stats.herokuapp.com/?user=vcaard&theme=tokyonight"
-        height="130px"
+        height="135px"
         style="display: inline-block;"
     />
 </div>
