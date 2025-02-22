@@ -1,12 +1,9 @@
-<h1>
-<div align="left">
-    <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" width="80">
-    <span style="font-size: 24px;">Hello World!</span>
-</div>
-</h1>
+| <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" width="80"> | <h2>Hello World!</h2> |
+|---|---|
 
 
 <br>
+
 <img
     alt="Hit Counter"
     title="Hit Counter"
