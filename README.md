@@ -20,9 +20,9 @@
     <summary><b>🎓 Apresentação</b></summary>
         <p>
 
-Olá! Me chamo Vinícius, tenho 19 anos e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**, sempre fui apaixonado por computadores e tecnologia e desperto curiosidade em saber como tudo funciona e respectivamente resolver problemas. Agora com a oportunidade da faculdade, estou me especializando em desenvolvimento de software e back-end! Utilizando Python e frameworks como Django e Flask, mas em breve pretendo aprender Java e Springboot para aprofundar-me mais.
+Olá! Me chamo Vinícius, tenho 19 anos e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**, sempre fui apaixonado por computadores e tecnologia e desperto curiosidade em saber como tudo funciona e respectivamente resolver problemas. Agora com a oportunidade da faculdade, estou me especializando em desenvolvimento de software e back-end, utilizando Python e frameworks como Django e Flask, mas em breve pretendo aprender Java e Springboot para aprofundar-me mais.
 
-No momento busco vaga para **estágio**, abaixo você pode conferir meus conhecimentos e o que eu desejo aprender.
+No momento busco vaga para estágio para adquirir experiência participando de projetos reais e aprimorando meu conhecimento prático, contribuindo com soluções eficientes. Abaixo você pode conferir meus conhecimentos atuais.
 
 #### **Idiomas:** Inglês intermediário* (progredindo para avançado) - Espanhol básico 
 </p>
