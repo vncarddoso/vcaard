@@ -148,8 +148,11 @@ Também estou concluindo o curso de [**Scientific Computing with Python**](https
 />
 </p>
 </details>
-
----
+<p>
+    <img 
+        src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"
+    />
+</p>
 
 ### Contate-me! 💬
 
@@ -168,11 +171,12 @@ Também estou concluindo o curso de [**Scientific Computing with Python**](https
         src="https://img.shields.io/badge/Acesse%20o%20meu-LinkedIn-5DACDF?style=for-the-badge&logo=linkedin&logoColor=white"
     />
 </a>
-
----
-
-<br>
-<p align="center">
+<p>
+    <img 
+        src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
+    />
+</p>
+<p>
     <img 
         src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vcaard&theme=tokyonight"
         height="160px"
