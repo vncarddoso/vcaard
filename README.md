@@ -1,6 +1,7 @@
-
 <br>
+
 # Vinícius Cardoso Miranda
+
 ### ``Desenvolvedor back-end``
 <img
     alt="Hit Counter"
