@@ -1,4 +1,6 @@
-![Imgur](https://imgur.com/28kvLJY)
+<p align="center">
+    <img src="https://i.imgur.com/YtqfUWj.png" width="600px" alt="">
+</p>
 
 <br>
 
