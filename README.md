@@ -4,7 +4,17 @@
 <img
     alt="Hit Counter"
     title="Hit Counter"
-    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvcaard1212%2Fhit-counter"
+    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvcaard%2Fhit-counter&count_bg=%2374D729&title_bg=%23555555&icon=postwoman.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false"
+/>
+<img
+    alt="Follow Me!"
+    title="Follow me!"
+    src="https://img.shields.io/github/followers/vcaard?style=flat&logo=github&logoColor=white&label=Followers&labelColor=grey&color=yellow"
+/>
+<img
+    alt="Stars"
+    title="Stars"
+    src="https://img.shields.io/github/stars/vcaard?style=flat&logo=spreaker&logoColor=white&label=Stars&labelColor=Grey"
 />
 
 ---
@@ -138,16 +148,15 @@ Concluindo o curso de [**Scientific Computing with Python**](https://www.freecod
         <img
             alt="Gmail"
             title="Meu Gmail"
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+            src="https://img.shields.io/badge/Envie%20um-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
         />
-    </a>
         <a href="https://www.linkedin.com/in/viniciuscarddoso/">
+<br>
         <img
             alt="LinkedIn"
             title="Meu LinkedIn"
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://img.shields.io/badge/Acesse%20o%20meu-LinkedIn-5DACDF?style=for-the-badge&logo=inspire&logoColor=white"
         />
-    </a>
     
 <br>
 
