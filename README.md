@@ -1,8 +1,8 @@
-| <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" width="80"> | <h2>Hello World!</h2> |
-|---|---|
+<h1>
+    Hello World!
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
+</h1>
 
-
-<br>
 
 <img
     alt="Hit Counter"
@@ -72,8 +72,7 @@ No momento busco vaga para estágio para adquirir experiência participando de p
 />
 
 Também estou concluindo o curso de [**Scientific Computing with Python**](https://www.freecodecamp.org/learn/scientific-computing-with-python/) no [**FreeCodeCamp***](https://www.freecodecamp.org/) <br> Logo após farei projetos e aplicações para praticar meu conhecimento.
-
-
+<br>
 </p>
 </details>
 <details>
@@ -152,11 +151,8 @@ Também estou concluindo o curso de [**Scientific Computing with Python**](https
 />
 </p>
 </details>
-<p>
-    <img 
-        src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"
-    />
-</p>
+
+---
 
 ### Contate-me! 💬
 
@@ -175,9 +171,12 @@ Também estou concluindo o curso de [**Scientific Computing with Python**](https
         src="https://img.shields.io/badge/Acesse%20o%20meu-LinkedIn-5DACDF?style=for-the-badge&logo=linkedin&logoColor=white"
     />
 </a>
+<br>
+<br>
 <p>
     <img 
         src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
+        width="780"
     />
 </p>
 <p>
