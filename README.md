@@ -162,7 +162,6 @@ Também estou concluindo o curso de [**Scientific Computing with Python**](https
         src="https://img.shields.io/badge/Envie%20um-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black"
     />
 </a>
-<br>
 <a href="https://www.linkedin.com/in/viniciuscarddoso/" target="_blank">
     <img
         alt="LinkedIn"
@@ -170,13 +169,14 @@ Também estou concluindo o curso de [**Scientific Computing with Python**](https
         src="https://img.shields.io/badge/Acesse%20o%20meu-LinkedIn-5DACDF?style=for-the-badge&logo=inspire&logoColor=white&labelColor=black"
     />
 </a>
+
+<br>
+<br>
 <p>
     <img 
         src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
         width="780"
     />
-</p>
-<p>
     <img 
         src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vcaard&theme=highcontrast"
         height="160px"
