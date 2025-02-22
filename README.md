@@ -1,6 +1,11 @@
 # 👨‍💻 Vinícius Cardoso Miranda
 
 ### ``Desenvolvedor back-end``
+<img
+    alt="Hit Counter"
+    title="Hit Counter"
+    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvcaard1212%2Fhit-counter"
+/>
 
 ---
 
@@ -127,7 +132,7 @@ Concluindo o curso de [**Scientific Computing with Python**](https://www.freecod
 
 ---
 
-### Contatos
+### Contate-me! 💬
 
 <a href="mailto:vinicardmiranda@gmail.com">
         <img
@@ -143,26 +148,20 @@ Concluindo o curso de [**Scientific Computing with Python**](https://www.freecod
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    </a>
-        <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvcaard1212%2Fhit-counter">
-        <img
-            alt="GitHub"
-            title="GitHub"
-            src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvcaard1212%2Fhit-counter"
-        />
-    </a>
     
 <br>
-<br>
+
+---
+
 <div>
     <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vcaard&theme=tokyonight"
-        height="150px"
+        height="100px"
         style="display: inline-block;"
     />
     <img 
         src="https://github-readme-streak-stats.herokuapp.com/?user=vcaard&theme=tokyonight"
-        height="150px"
+        height="100px"
         style="display: inline-block;"
     />
 </div>
