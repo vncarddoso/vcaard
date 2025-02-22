@@ -176,13 +176,13 @@ Também estou concluindo o curso de [**Scientific Computing with Python**](https
 <br>
 <div>
     <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vcaard&theme=tokyonight"
-        height="135px"
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vcaard&theme=tokyonight"
+        height="150px"
         style="display: inline-block;"
     />
     <img 
         src="https://github-readme-streak-stats.herokuapp.com/?user=vcaard&theme=tokyonight"
-        height="135px"
+        height="150px"
         style="display: inline-block;"
     />
 </div>
