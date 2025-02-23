@@ -180,10 +180,10 @@ Também estou concluindo o curso de [**Scientific Computing with Python**](https
     />
     <img 
         src="https://github-readme-stats.vercel.app/api?username=vcaard&show_icons=true&theme=highcontrast&hide_border=true&rank_icon=github&hide=issues,contribs&show=discussions_started&title_color=ffec00&icon_color=ff0000&ring_color=ffec00"
-        height="160px"
+        height="150px"
     />
     <img 
         src="https://github-readme-streak-stats.herokuapp.com/?user=vcaard&theme=highcontrast&hide_border=true"
-        height="160px"
+        height="150px"
     />
 </p>
