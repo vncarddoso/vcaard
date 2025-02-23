@@ -23,9 +23,7 @@
 
 Olá! Me chamo Vinícius, tenho 19 anos e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**, sempre fui apaixonado por computadores e tecnologia e desperto curiosidade em saber como tudo funciona e respectivamente resolver problemas. Agora com a oportunidade da faculdade, estou me especializando em **desenvolvimento de software** e **back-end**, utilizando **Python** e frameworks como **Django** e **Flask**, mas em breve pretendo aprender Java e Springboot para aprofundar-me mais.
 
-No momento busco **estágio** para adquirir experiência participando de projetos reais e aprimorando meu conhecimento prático, contribuindo com soluções eficientes. Abaixo você pode conferir meus conhecimentos atuais.
-
-#### **Idiomas:** Inglês intermediário* (progredindo para avançado) - Espanhol básico 
+No momento, meu objetivo é arrumar um **estágio** para adquirir experiência participando de projetos reais e aprimorando meu conhecimento prático, contribuindo com soluções eficientes. Abaixo você pode conferir meus conhecimentos atuais.
 
 <br>
 </p>
@@ -71,6 +69,8 @@ No momento busco **estágio** para adquirir experiência participando de projeto
 />
 
 Também estou concluindo o curso de [**Scientific Computing with Python**](https://www.freecodecamp.org/learn/scientific-computing-with-python/) no [**FreeCodeCamp***](https://www.freecodecamp.org/) <br> Logo após farei projetos e aplicações para praticar meu conhecimento.
+
+#### **Idiomas:** Inglês intermediário* (progredindo para avançado) - Espanhol básico 
 <br>
 </p>
 </details>
