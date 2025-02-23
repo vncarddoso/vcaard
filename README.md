@@ -179,11 +179,11 @@ Também estou concluindo o curso de [**Scientific Computing with Python**](https
         width="795"
     />
     <img 
-        src="https://github-readme-stats.vercel.app/api?username=vcaard&show_icons=true&theme=highcontrast&hide_border=true&rank_icon=github&hide=issues,contribs&show=discussions_started&title_color=ffec00&icon_color=ff0000&ring_color=ffec00"
+        src="https://github-readme-stats.vercel.app/api?username=vcaard&show_icons=true&theme=highcontrast&hide_border=true&rank_icon=github&hide=issues,contribs&show=discussions_started&title_color=ffec00&icon_color=ff0000&ring_color=ffec00&include_all_commits=true"
         height="150px"
     />
     <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=vcaard&theme=highcontrast&hide_border=true"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=vcaard&theme=highcontrast&hide_border=true&ring=ffec00&fire=ffec00&currStreakLabel=ffec00&date_format=j%20M%5B%20Y%5D"
         height="150px"
     />
 </p>
