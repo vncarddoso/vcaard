@@ -152,9 +152,11 @@ Também estou concluindo o curso de [**Scientific Computing with Python**](https
 </details>
 
 ---
+<div align="center">
+    <h2>Contate-me! 💬</h2>
+</div>
 
-### Contate-me! 💬
-
+<p align="center">
 <a href="mailto:vinicardmiranda@gmail.com">
     <img
         alt="Gmail"
@@ -169,10 +171,9 @@ Também estou concluindo o curso de [**Scientific Computing with Python**](https
         src="https://img.shields.io/badge/Acesse%20o%20meu-LinkedIn-5DACDF?style=for-the-badge&logo=inspire&logoColor=white&labelColor=black"
     />
 </a>
+</p>
 
-<br>
-<br>
-<p>
+<p align="center">
     <img 
         src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
         width="780"
