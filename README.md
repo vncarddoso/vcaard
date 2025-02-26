@@ -183,7 +183,7 @@ Também estou concluindo o curso de [**Scientific Computing with Python**](https
         height="150px"
     />
     <img 
-        src="https://streak-stats.demolab.com?user=vcaard&theme=highcontrast&hide_border=true"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=vcaard&theme=highcontrast&hide_border=true"
         height="150px"
     />
 </p>
