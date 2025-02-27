@@ -119,11 +119,6 @@ Também estou concluindo o curso de [**Scientific Computing with Python**](https
     src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
 />
 <img
-    alt="Tailwind"
-    title="Tailwind"
-    src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
-/>
-<img
     alt="PostgreSQL"
     title="PostgreSQL"
     src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
@@ -142,11 +137,6 @@ Também estou concluindo o curso de [**Scientific Computing with Python**](https
     alt="Google Cloud"
     title="Google Cloud"
     src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"
-/>
-<img
-    alt="CloudFlare"
-    title="CloudFlare"
-    src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"
 />
 </p>
 </details>
