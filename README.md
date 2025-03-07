@@ -141,11 +141,11 @@ Também estou concluindo o curso de [**Scientific Computing with Python**](https
 </details>
 
 ---
-<div>
+<div align="center">
     <h2>Contate-me! 💬</h2>
 </div>
 
-<p>
+<p align="center">
 <a href="mailto:vinicardmiranda@gmail.com">
     <img
         alt="Gmail"
@@ -162,7 +162,7 @@ Também estou concluindo o curso de [**Scientific Computing with Python**](https
 </a>
 </p>
 
-<p>
+<p align="center">
     <img 
         src="https://github-readme-stats.vercel.app/api?username=vcaard&show_icons=true&theme=react&hide_border=true&rank_icon=github&hide=issues,contribs&show=discussions_started&include_all_commits=true"
         height="150px"
