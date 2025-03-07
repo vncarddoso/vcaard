@@ -68,8 +68,7 @@ No momento, meu objetivo é arrumar um **estágio** para adquirir experiência p
     src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
 />
 
-Também estou concluindo o curso de [**Scientific Computing with Python**](https://www.freecodecamp.org/learn/scientific-computing-with-python/) no [**FreeCodeCamp***](https://www.freecodecamp.org/) <br> Logo após farei projetos e aplicações para praticar meu conhecimento.
-
+Também estou concluindo o curso de [**Scientific Computing with Python**](https://www.freecodecamp.org/learn/scientific-computing-with-python/) no [**FreeCodeCamp***](https://www.freecodecamp.org/) 
 #### **Idiomas:** Inglês intermediário* (progredindo para avançado) - Espanhol básico 
 <br>
 </p>
