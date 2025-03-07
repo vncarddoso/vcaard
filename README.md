@@ -141,38 +141,34 @@ Também estou concluindo o curso de [**Scientific Computing with Python**](https
 </details>
 
 ---
-<div align="center">
+<div>
     <h2>Contate-me! 💬</h2>
 </div>
 
-<p align="center">
+<p>
 <a href="mailto:vinicardmiranda@gmail.com">
     <img
         alt="Gmail"
         title="Meu Gmail"
-        src="https://img.shields.io/badge/Envie%20um-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black"
+        src="https://img.shields.io/badge/Envie%20um-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=grey"
     />
 </a>
 <a href="https://www.linkedin.com/in/viniciuscarddoso/" target="_blank">
     <img
         alt="LinkedIn"
         title="Meu LinkedIn"
-        src="https://img.shields.io/badge/Acesse%20o%20meu-LinkedIn-5DACDF?style=for-the-badge&logo=inspire&logoColor=white&labelColor=black"
+        src="https://img.shields.io/badge/Acesse%20o%20meu-LinkedIn-5DACDF?style=for-the-badge&logo=inspire&logoColor=white&labelColor=grey"
     />
 </a>
 </p>
 
-<p align="center">
+<p>
     <img 
-        src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
-        width="738"
-    />
-    <img 
-        src="https://github-readme-stats.vercel.app/api?username=vcaard&show_icons=true&theme=highcontrast&hide_border=true&rank_icon=github&hide=issues,contribs&show=discussions_started&title_color=ffec00&icon_color=ff0000&ring_color=ffec00&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=vcaard&show_icons=true&theme=react&hide_border=true&rank_icon=github&hide=issues,contribs&show=discussions_started&include_all_commits=true"
         height="150px"
     />
     <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcaard&layout=compact&hide_border=true&theme=highcontrast"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcaard&layout=compact&hide_border=true&theme=react"
         height="150px"
     />
 </p>
