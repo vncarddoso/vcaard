@@ -52,18 +52,11 @@ No momento, meu objetivo é arrumar um **estágio** para adquirir experiência p
 
 <p align="center">
 <a href="mailto:vinicardmiranda@gmail.com">
-    <img
-        alt="Gmail"
-        title="Meu Gmail"
-        src="https://img.shields.io/badge/Envie%20um-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=grey"
-    />
+    <img src="https://skillicons.dev/icons?i=gmail"
+        
 </a>
 <a href="https://www.linkedin.com/in/viniciuscarddoso/" target="_blank">
-    <img
-        alt="LinkedIn"
-        title="Meu LinkedIn"
-        src="https://img.shields.io/badge/Acesse%20o%20meu-LinkedIn-5DACDF?style=for-the-badge&logo=inspire&logoColor=white&labelColor=grey"
-    />
+    <img src="https://skillicons.dev/icons?i=linkedin">
 </a>
 </p>
 
