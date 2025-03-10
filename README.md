@@ -50,7 +50,7 @@ No momento, meu objetivo é arrumar um **estágio** para adquirir experiência p
     <h2>Contate-me! 💬</h2>
 </div>
 
-<p align="center">
+<p align="left">
 <a href="mailto:vinicardmiranda@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"
         
