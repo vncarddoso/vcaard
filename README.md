@@ -46,7 +46,7 @@ No momento, meu objetivo é arrumar um **estágio** para adquirir experiência p
 </details>
 
 ---
-<div align="center">
+<div align="left">
     <h2>Contate-me! 💬</h2>
 </div>
 
