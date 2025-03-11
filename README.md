@@ -62,7 +62,7 @@ No momento, meu objetivo é arrumar um **estágio** para adquirir experiência p
 
 <p align="left">
     <img 
-        src="https://github-readme-stats.vercel.app/api?username=vcaard&show_icons=true&theme=react&hide_border=true&rank_icon=github&hide=issues,contribs&show=discussions_started&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=vcaard&show_icons=true&theme=react&hide_border=true&rank_icon=github&hide=issues,contribs&show=discussions_started"
         height="170px"
     />
     <img 
