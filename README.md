@@ -2,3 +2,4 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=4000&pause=700&color=00FFFF&center=true&width=800&lines=Howdy!+My+name+is+Vin%C3%ADcius.;I'm+Back-End+Developer;I'm+19+years+old;And+I'm+graduating+in+Systems+Analysis+and+Development)
 ![GitStats](https://github-readme-stats.vercel.app/api?username=vcaard&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&hide=issues,contribs&show=discussions_started&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF)
 ![GitLang](https://github-readme-stats.vercel.app/api/top-langs/?username=vcaard&layout=compact&hide_border=true&theme=transparent&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer)
