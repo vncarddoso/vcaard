@@ -7,4 +7,4 @@
 </p>
 
 ![GitStats](https://github-readme-stats.vercel.app/api?username=vcaard&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&hide=issues,contribs&show=discussions_started&title_color=999999&text_color=FFFFFF&icon_color=999999)
-![GitLang](https://github-readme-stats.vercel.app/api/top-langs/?username=vcaard&layout=compact&hide_border=true&theme=transparent&title_color=999999&text_color=FFFFFF&icon_color=999999)
+![GitHub Streak](https://streak-stats.demolab.com?user=vcaard&theme=transparent&hide_border=true&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=bcbcbc&ring=999999&fire=999999)
