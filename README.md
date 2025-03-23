@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Vinicius%20Cardoso%20Miranda&desc=Software%20Developer&height=100&fontSize=40&descAlignY=0&fontAlignY=30&animation=fadeIn)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,html,css,c,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,flask,django,mongodb,css,c,html,git" />
   </a>
 </p>
 
