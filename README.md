@@ -7,6 +7,6 @@
 </p>
 <p align="center">
   <a href="">
-    <img src="https://streak-stats.demolab.com?user=vcaard&theme=transparent&hide_border=true&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=bcbcbc&ring=999999&fire=999999" />
+    <img src="https://streak-stats.demolab.com?user=vncarddoso&theme=transparent&hide_border=true&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=bcbcbc&ring=999999&fire=999999" />
   </a>
 </p>
